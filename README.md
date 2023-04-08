@@ -9,3 +9,4 @@ and indicators that allow me to adjust the motor speed and direction, as well as
 I use LabVIEW to implement advanced control algorithms such as PID (proportional-integral-derivative) control, 
 which can help me to achieve precise and stable motor performance. With its user-friendly interface and powerful programming capabilities, 
 LabVIEW is an ideal platform for controlling DC motors and other types of electromechanical systems.
+
